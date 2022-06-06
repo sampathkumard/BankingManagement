@@ -1,0 +1,5 @@
+package com.sampath.banking;
+
+public class BankAccount {
+
+}
